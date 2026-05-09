@@ -48,6 +48,3 @@ projectJDK: "8" #(Applied in CI/CD pipeline)
 #For all supported languages see https://www.jetbrains.com/help/qodana/linters.html
 linter: jetbrains/qodana-jvm-community:2025.3
 
-project:
-  codeVision:
-    enabled: false
